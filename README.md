@@ -1,2 +1,2 @@
 # demo
-learning how git works
+learning how git works.
